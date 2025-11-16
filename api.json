@@ -63,12 +63,12 @@
             "workerID": 415371,
             "typeProductionID": 1,
             "shortDescription": "Нужна поддержка",
-            "note": "Требования",
-            "layout": "img.png",
-            "status": "Отменена",
+            "note": "",
+            "layout": "",
+            "status": "",
             "dateStart": "10-04-2025",
-            "dateTake": "11-04-2025",
-            "dateFinish": "12-04-2025"
+            "dateTake": "",
+            "dateFinish": ""
         },
 
         "1033": {
@@ -76,9 +76,35 @@
             "workerID": 406708,
             "typeProductionID": 2,
             "shortDescription": "Нужна поддержка",
+            "note": "",
+            "layout": "",
+            "status": "",
+            "dateStart": "15-04-2025",
+            "dateTake": "17-04-2025",
+            "dateFinish": ""
+        },
+        
+        "1034": {
+            "clientID": 115700,
+            "workerID": 406708,
+            "typeProductionID": 2,
+            "shortDescription": "Нужна поддержка",
             "note": "Требования",
             "layout": "img.png",
-            "status": "Успешно обработана",
+            "status": "",
+            "dateStart": "15-04-2025",
+            "dateTake": "17-04-2025",
+            "dateFinish": ""
+        },
+
+        "1035": {
+            "clientID": 115700,
+            "workerID": 406708,
+            "typeProductionID": 2,
+            "shortDescription": "Нужна поддержка",
+            "note": "Требования",
+            "layout": "img.png",
+            "status": "Отменена",
             "dateStart": "15-04-2025",
             "dateTake": "17-04-2025",
             "dateFinish": "20-04-2025"
