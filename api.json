@@ -1,0 +1,126 @@
+{
+    "Workers": {
+        "406708": {
+            "Role": 1,
+            "Name": "Петров Петр Петрович",
+            "Phone": 79994995566
+        },
+
+        "415371": {
+            "Role": 0,
+            "Name": "Петров Петр Петрович",
+            "Phone": 78915964529
+        }
+    },
+
+    "Clients": {
+        "115300": {
+            "Name": "Александр",
+            "Email": "aleks@gmail.com",
+            "Phone": 78915964529
+        },
+
+        "264361": {
+            "Name": "Магнит",
+            "Email": "magnit@gmail.org",
+            "Phone": 79917931735
+        }
+    },
+
+    "TypeProductions": {
+        "1": {
+            "Type": "Разработка"
+        },
+
+        "2": {
+            "Type": "Аудиты"
+        },
+        
+        "3": {
+            "Type": "Поддержка"
+        },
+        
+        "4": {
+            "Type": "DevOps"
+        },
+        
+        "5": {
+            "Type": "PostgreSQL"
+        },
+        
+        "6": {
+            "Type": "Ai-технологии"
+        },
+        
+        "7": {
+            "Type": "Другое"
+        }
+    },
+
+    "Applications": {
+        "1031": {
+            "clientID": 264361,
+            "workerID": 415371,
+            "typeProductionID": 1,
+            "shortDescription": "Нужна поддержка",
+            "note": "",
+            "layout": "",
+            "status": "",
+            "dateStart": "10-04-2025",
+            "dateTake": "",
+            "dateFinish": ""
+        },
+        
+        "1032": {
+            "clientID": 264361,
+            "workerID": 415371,
+            "typeProductionID": 1,
+            "shortDescription": "Нужна поддержка",
+            "note": "",
+            "layout": "",
+            "status": "",
+            "dateStart": "10-04-2025",
+            "dateTake": "",
+            "dateFinish": ""
+        },
+
+        "1033": {
+            "clientID": 115300,
+            "workerID": 406708,
+            "typeProductionID": 2,
+            "shortDescription": "Нужна поддержка",
+            "note": "",
+            "layout": "",
+            "status": "",
+            "dateStart": "15-04-2025",
+            "dateTake": "17-04-2025",
+            "dateFinish": ""
+        },
+        
+        "1034": {
+            "clientID": 115700,
+            "workerID": 406708,
+            "typeProductionID": 2,
+            "shortDescription": "Нужна поддержка",
+            "note": "Требования",
+            "layout": "img.png",
+            "status": "",
+            "dateStart": "15-04-2025",
+            "dateTake": "17-04-2025",
+            "dateFinish": ""
+        },
+
+        "1035": {
+            "clientID": 115700,
+            "workerID": 406708,
+            "typeProductionID": 2,
+            "shortDescription": "Нужна поддержка",
+            "note": "Требования",
+            "layout": "img.png",
+            "status": "Отменена",
+            "dateStart": "15-04-2025",
+            "dateTake": "17-04-2025",
+            "dateFinish": "20-04-2025"
+        }
+    }
+}
