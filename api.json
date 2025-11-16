@@ -58,6 +58,18 @@
     },
 
     "Applications": {
+        "1031": {
+            "clientID": 264361,
+            "workerID": 415371,
+            "typeProductionID": 1,
+            "shortDescription": "Нужна поддержка",
+            "note": "",
+            "layout": "",
+            "status": "",
+            "dateStart": "10-04-2025",
+            "dateTake": "",
+            "dateFinish": ""
+        },
         
         "1032": {
             "clientID": 264361,
