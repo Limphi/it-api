@@ -5,7 +5,7 @@
             "Name": "Петров Петр Петрович",
             "Phone": 79994995566
         },
-
+        
         "415371": {
             "Role": 0,
             "Name": "Петров Петр Петрович",
@@ -19,7 +19,7 @@
             "Email": "aleks@gmail.com",
             "Phone": 78915964529
         },
-
+        
         "264361": {
             "Name": "Магнит",
             "Email": "magnit@gmail.org",
@@ -31,7 +31,7 @@
         "1": {
             "Type": "Разработка"
         },
-
+        
         "2": {
             "Type": "Аудиты"
         },
@@ -83,7 +83,7 @@
             "dateTake": "",
             "dateFinish": ""
         },
-
+        
         "1033": {
             "clientID": 115300,
             "workerID": 406708,
@@ -109,7 +109,7 @@
             "dateTake": "17-04-2025",
             "dateFinish": ""
         },
-
+        
         "1035": {
             "clientID": 264361,
             "workerID": 406708,
@@ -122,7 +122,7 @@
             "dateTake": "17-04-2025",
             "dateFinish": "20-04-2025"
         },
-
+        
         "1036": {
             "clientID": 264361,
             "workerID": 0,
@@ -148,7 +148,7 @@
             "dateTake": "",
             "dateFinish": ""
         },
-
+        
         "1038": {
             "clientID": 264361,
             "workerID": 0,
@@ -174,7 +174,7 @@
             "dateTake": "",
             "dateFinish": ""
         },
-
+        
         "1040": {
             "clientID": 115300,
             "workerID": 406708,
@@ -200,7 +200,7 @@
             "dateTake": "17-06-2025",
             "dateFinish": ""
         },
-
+        
         "1042": {
             "clientID": 264361,
             "workerID": 406708,
@@ -210,8 +210,8 @@
             "layout": "img.png",
             "status": "Отменена",
             "dateStart": "15-03-2025",
-            "dateTake": "11-04-2025",
-            "dateFinish": "25-02-2025"
-        },
+            "dateTake": "17-03-2025",
+            "dateFinish": "20-03-2025"
+        }
     }
 }
