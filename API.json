@@ -5,11 +5,25 @@
             "Name": "Петров Петр Петрович",
             "Phone": 79994995566
         },
-
         "415371": {
             "Role": 0,
-            "Name": "Петров Петр Петрович",
-            "Phone": 78915964529
+            "Name": "Иванова Анна Сергеевна",
+            "Phone": 79151234567
+        },
+        "418992": {
+            "Role": 1,
+            "Name": "Сидоров Алексей Владимирович",
+            "Phone": 79035557733
+        },
+        "425183": {
+            "Role": 0,
+            "Name": "Кузнецова Мария Дмитриевна",
+            "Phone": 79219876543
+        },
+        "431654": {
+            "Role": 1,
+            "Name": "Васильев Денис Игоревич",
+            "Phone": 79503332211
         }
     },
 
@@ -19,11 +33,30 @@
             "Email": "aleks@gmail.com",
             "Phone": 78915964529
         },
-
         "264361": {
             "Name": "Магнит",
             "Email": "magnit@gmail.org",
             "Phone": 79917931735
+        },
+        "312475": {
+            "Name": "ООО 'Вектор'",
+            "Email": "vector@mail.ru",
+            "Phone": 79624581239
+        },
+        "356812": {
+            "Name": "ИП Сергеев",
+            "Email": "sergeev.ip@yandex.ru",
+            "Phone": 79168765432
+        },
+        "398441": {
+            "Name": "АО 'ТехноПрогресс'",
+            "Email": "info@technoprogress.ru",
+            "Phone": 78005553535
+        },
+        "445672": {
+            "Name": "Екатерина",
+            "Email": "kat.smith@outlook.com",
+            "Phone": 79081234567
         }
     },
 
@@ -31,27 +64,21 @@
         "1": {
             "Type": "Разработка"
         },
-
         "2": {
             "Type": "Аудиты"
         },
-        
         "3": {
             "Type": "Поддержка"
         },
-        
         "4": {
             "Type": "DevOps"
         },
-        
         "5": {
             "Type": "PostgreSQL"
         },
-        
         "6": {
             "Type": "Ai-технологии"
         },
-        
         "7": {
             "Type": "Другое"
         }
@@ -60,9 +87,9 @@
     "Applications": {
         "1031": {
             "clientID": 264361,
-            "workerID": 415371,
+            "workerID": 0,
             "typeProductionID": 1,
-            "shortDescription": "Нужна поддержка",
+            "shortDescription": "Разработка личного кабинета",
             "note": "",
             "layout": "",
             "status": "",
@@ -70,57 +97,281 @@
             "dateTake": "",
             "dateFinish": ""
         },
-        
         "1032": {
             "clientID": 264361,
-            "workerID": 415371,
+            "workerID": 0,
             "typeProductionID": 1,
-            "shortDescription": "Нужна поддержка",
+            "shortDescription": "Доработка API",
             "note": "",
             "layout": "",
             "status": "",
-            "dateStart": "10-04-2025",
+            "dateStart": "11-04-2025",
             "dateTake": "",
             "dateFinish": ""
         },
-
         "1033": {
             "clientID": 115300,
             "workerID": 406708,
             "typeProductionID": 2,
-            "shortDescription": "Нужна поддержка",
-            "note": "",
-            "layout": "",
-            "status": "",
+            "shortDescription": "Аудит безопасности",
+            "note": "Срочно",
+            "layout": "audit_plan.pdf",
+            "status": "В работе",
             "dateStart": "15-04-2025",
             "dateTake": "17-04-2025",
             "dateFinish": ""
         },
-        
         "1034": {
             "clientID": 264361,
             "workerID": 406708,
             "typeProductionID": 2,
-            "shortDescription": "Нужна поддержка",
+            "shortDescription": "Аудит производительности",
             "note": "Требования",
             "layout": "img.png",
-            "status": "",
+            "status": "В работе",
             "dateStart": "15-04-2025",
             "dateTake": "17-04-2025",
             "dateFinish": ""
         },
-
         "1035": {
             "clientID": 264361,
             "workerID": 406708,
             "typeProductionID": 2,
-            "shortDescription": "Нужна поддержка",
+            "shortDescription": "Аудит кодовой базы",
             "note": "Требования",
             "layout": "img.png",
             "status": "Отменена",
             "dateStart": "15-04-2025",
             "dateTake": "17-04-2025",
             "dateFinish": "20-04-2025"
+        },
+        "1036": {
+            "clientID": 312475,
+            "workerID": 0,
+            "typeProductionID": 3,
+            "shortDescription": "Техническая поддержка сайта",
+            "note": "",
+            "layout": "",
+            "status": "",
+            "dateStart": "09-04-2025",
+            "dateTake": "",
+            "dateFinish": ""
+        },
+        "1037": {
+            "clientID": 356812,
+            "workerID": 0,
+            "typeProductionID": 3,
+            "shortDescription": "Консультация по 1С",
+            "note": "",
+            "layout": "",
+            "status": "",
+            "dateStart": "10-04-2024",
+            "dateTake": "",
+            "dateFinish": ""
+        },
+        "1038": {
+            "clientID": 398441,
+            "workerID": 0,
+            "typeProductionID": 6,
+            "shortDescription": "Внедрение чат-бота",
+            "note": "",
+            "layout": "",
+            "status": "",
+            "dateStart": "10-02-2025",
+            "dateTake": "",
+            "dateFinish": ""
+        },
+        "1039": {
+            "clientID": 445672,
+            "workerID": 0,
+            "typeProductionID": 7,
+            "shortDescription": "Консультационные услуги",
+            "note": "",
+            "layout": "",
+            "status": "",
+            "dateStart": "10-03-2025",
+            "dateTake": "",
+            "dateFinish": ""
+        },
+        "1040": {
+            "clientID": 115300,
+            "workerID": 406708,
+            "typeProductionID": 4,
+            "shortDescription": "Настройка CI/CD",
+            "note": "",
+            "layout": "",
+            "status": "В работе",
+            "dateStart": "12-04-2025",
+            "dateTake": "15-04-2025",
+            "dateFinish": ""
+        },
+        "1041": {
+            "clientID": 264361,
+            "workerID": 418992,
+            "typeProductionID": 4,
+            "shortDescription": "Миграция на новые серверы",
+            "note": "Требования",
+            "layout": "infra_map.png",
+            "status": "В работе",
+            "dateStart": "18-04-2025",
+            "dateTake": "17-06-2025",
+            "dateFinish": ""
+        },
+        "1042": {
+            "clientID": 312475,
+            "workerID": 431654,
+            "typeProductionID": 5,
+            "shortDescription": "Оптимизация запросов",
+            "note": "Требования",
+            "layout": "queries.sql",
+            "status": "Завершена",
+            "dateStart": "15-04-2025",
+            "dateTake": "17-04-2025",
+            "dateFinish": "20-04-2025"
+        },
+        "1043": {
+            "clientID": 356812,
+            "workerID": 0,
+            "typeProductionID": 1,
+            "shortDescription": "Разработка мобильного приложения",
+            "note": "",
+            "layout": "",
+            "status": "",
+            "dateStart": "22-04-2025",
+            "dateTake": "",
+            "dateFinish": ""
+        },
+        "1044": {
+            "clientID": 398441,
+            "workerID": 425183,
+            "typeProductionID": 6,
+            "shortDescription": "Разработка ML-модели",
+            "note": "Высокий приоритет",
+            "layout": "specs.pdf",
+            "status": "В работе",
+            "dateStart": "25-04-2025",
+            "dateTake": "26-04-2025",
+            "dateFinish": ""
+        },
+        "1045": {
+            "clientID": 445672,
+            "workerID": 415371,
+            "typeProductionID": 3,
+            "shortDescription": "Обновление контента",
+            "note": "Не срочно",
+            "layout": "content_plan.xlsx",
+            "status": "В работе",
+            "dateStart": "28-04-2025",
+            "dateTake": "29-04-2025",
+            "dateFinish": ""
+        },
+        "1046": {
+            "clientID": 115300,
+            "workerID": 0,
+            "typeProductionID": 7,
+            "shortDescription": "Подбор оборудования",
+            "note": "",
+            "layout": "",
+            "status": "",
+            "dateStart": "30-04-2025",
+            "dateTake": "",
+            "dateFinish": ""
+        },
+        "1047": {
+            "clientID": 264361,
+            "workerID": 418992,
+            "typeProductionID": 1,
+            "shortDescription": "Рефакторинг legacy кода",
+            "note": "Важно качество",
+            "layout": "codebase.zip",
+            "status": "В работе",
+            "dateStart": "02-05-2025",
+            "dateTake": "03-05-2025",
+            "dateFinish": ""
+        },
+        "1048": {
+            "clientID": 312475,
+            "workerID": 431654,
+            "typeProductionID": 2,
+            "shortDescription": "Аудит перед запуском",
+            "note": "Полный аудит",
+            "layout": "checklist.pdf",
+            "status": "Завершена",
+            "dateStart": "05-05-2025",
+            "dateTake": "06-05-2025",
+            "dateFinish": "10-05-2025"
+        },
+        "1049": {
+            "clientID": 356812,
+            "workerID": 0,
+            "typeProductionID": 5,
+            "shortDescription": "Резервное копирование БД",
+            "note": "",
+            "layout": "",
+            "status": "",
+            "dateStart": "12-05-2025",
+            "dateTake": "",
+            "dateFinish": ""
+        },
+        "1050": {
+            "clientID": 398441,
+            "workerID": 406708,
+            "typeProductionID": 4,
+            "shortDescription": "Настройка мониторинга",
+            "note": "Круглосуточный",
+            "layout": "monitoring_plan.docx",
+            "status": "В работе",
+            "dateStart": "15-05-2025",
+            "dateTake": "16-05-2025",
+            "dateFinish": ""
+        },
+        "1051": {
+            "clientID": 445672,
+            "workerID": 425183,
+            "typeProductionID": 6,
+            "shortDescription": "Анализ данных",
+            "note": "Большой объем",
+            "layout": "dataset.csv",
+            "status": "В работе",
+            "dateStart": "18-05-2025",
+            "dateTake": "19-05-2025",
+            "dateFinish": ""
+        },
+        "1052": {
+            "clientID": 115300,
+            "workerID": 415371,
+            "typeProductionID": 3,
+            "shortDescription": "Исправление ошибок",
+            "note": "Критические ошибки",
+            "layout": "bugs_list.xlsx",
+            "status": "В работе",
+            "dateStart": "20-05-2025",
+            "dateTake": "21-05-2025",
+            "dateFinish": ""
+        },
+        "1053": {
+            "clientID": 264361,
+            "workerID": 0,
+            "typeProductionID": 1,
+            "shortDescription": "Новый функционал",
+            "note": "",
+            "layout": "",
+            "status": "",
+            "dateStart": "25-05-2025",
+            "dateTake": "",
+            "dateFinish": ""
+        },
+        "1054": {
+            "clientID": 312475,
+            "workerID": 418992,
+            "typeProductionID": 7,
+            "shortDescription": "Техническая документация",
+            "note": "Согласовано",
+            "layout": "template.doc",
+            "status": "Завершена",
+            "dateStart": "28-05-2025",
+            "dateTake": "29-05-2025",
+            "dateFinish": "05-06-2025"
         }
     }
 }
