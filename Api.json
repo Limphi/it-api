@@ -1,0 +1,242 @@
+{
+    "Workers": {
+        "1001": {
+            "Role": "admin",
+            "Name": "Петров Петр Петрович",
+            "Phone": 79998887766
+        },
+        
+        "1002": {
+            "Role": "worker",
+            "Name": "Иванов Иван Иванович",
+            "Phone": 79998887765
+        },
+
+        "1003": {
+            "Role": "worker",
+            "Name": "Дубов Сергей Сергеевич",
+            "Phone": 79998887764
+        },
+
+
+        "1004": {
+            "Role": "worker",
+            "Name": "Белов Игорь Игоревич",
+            "Phone": 79998887763
+        }
+    },
+
+    "Clients": {
+        "5001": {
+            "Name": "ООО Транзит",
+            "Email": "transit@gmail.com",
+            "Phone": 79598887763
+        },
+        
+        "5002": {
+            "Name": "ООО Секрет",
+            "Email": "secret@gmail.org",
+            "Phone": 79498887763
+        },
+
+        "5003": {
+            "Name": "Вешнёв Игорь Сергеевич",
+            "Email": "veshneyv@gmail.org",
+            "Phone": 79398887763
+        },
+
+        "5004": {
+            "Name": "Китов Алексей Александрович",
+            "Email": "magnit@gmail.org",
+            "Phone": 79298887763
+        }
+    },
+
+    "TypeProductions": {
+        "1": {
+            "Type": "Разработка"
+        },
+        
+        "2": {
+            "Type": "Аудиты"
+        },
+        
+        "3": {
+            "Type": "Поддержка"
+        },
+        
+        "4": {
+            "Type": "DevOps"
+        },
+        
+        "5": {
+            "Type": "PostgreSQL"
+        },
+        
+        "6": {
+            "Type": "Ai-технологии"
+        },
+        
+        "7": {
+            "Type": "Другое"
+        }
+    },
+
+    "Applications": {
+        "10001": {
+            "clientID": 5001,
+            "workerID": 0,
+            "typeProductionID": 1,
+            "shortDescription": "Нужна поддержка",
+            "note": "",
+            "layout": "",
+            "status": "",
+            "dateStart": "10-04-2025",
+            "dateTake": "",
+            "dateFinish": ""
+        },
+        
+        "10002": {
+            "clientID": 5002,
+            "workerID": 0,
+            "typeProductionID": 1,
+            "shortDescription": "Нужна поддержка",
+            "note": "",
+            "layout": "",
+            "status": "",
+            "dateStart": "15-03-2025",
+            "dateTake": "",
+            "dateFinish": ""
+        },
+        
+        "10003": {
+            "clientID": 5003,
+            "workerID": 0,
+            "typeProductionID": 2,
+            "shortDescription": "Нужна поддержка",
+            "note": "",
+            "layout": "",
+            "status": "",
+            "dateStart": "19-06-2025",
+            "dateTake": "",
+            "dateFinish": ""
+        },
+        
+        "10004": {
+            "clientID": 5004,
+            "workerID": 0,
+            "typeProductionID": 4,
+            "shortDescription": "Нужна поддержка",
+            "note": "",
+            "layout": "",
+            "status": "",
+            "dateStart": "10-01-2025",
+            "dateTake": "",
+            "dateFinish": ""
+        },
+        
+        "10005": {
+            "clientID": 5001,
+            "workerID": 0,
+            "typeProductionID": 5,
+            "shortDescription": "Нужна поддержка",
+            "note": "",
+            "layout": "",
+            "status": "",
+            "dateStart": "15-03-2025",
+            "dateTake": "",
+            "dateFinish": ""
+        },
+        
+        "10006": {
+            "clientID": 5002,
+            "workerID": 0,
+            "typeProductionID": 4,
+            "shortDescription": "Нужна поддержка",
+            "note": "",
+            "layout": "",
+            "status": "",
+            "dateStart": "11-07-2025",
+            "dateTake": "",
+            "dateFinish": ""
+        },
+        
+        "10007": {
+            "clientID": 5003,
+            "workerID": 0,
+            "typeProductionID": 6,
+            "shortDescription": "Нужна поддержка",
+            "note": "",
+            "layout": "",
+            "status": "",
+            "dateStart": "14-04-2025",
+            "dateTake": "",
+            "dateFinish": ""
+        },
+        
+        "10008": {
+            "clientID": 5004,
+            "workerID": 0,
+            "typeProductionID": 6,
+            "shortDescription": "Нужна поддержка",
+            "note": "",
+            "layout": "",
+            "status": "",
+            "dateStart": "15-01-2025",
+            "dateTake": "",
+            "dateFinish": ""
+        },
+        
+        "10009": {
+            "clientID": 5001,
+            "workerID": 0,
+            "typeProductionID": 3,
+            "shortDescription": "Нужна поддержка",
+            "note": "",
+            "layout": "",
+            "status": "",
+            "dateStart": "18-05-2025",
+            "dateTake": "",
+            "dateFinish": ""
+        },
+        
+        "10010": {
+            "clientID": 5002,
+            "workerID": 0,
+            "typeProductionID": 5,
+            "shortDescription": "Нужна поддержка",
+            "note": "",
+            "layout": "",
+            "status": "",
+            "dateStart": "16-10-2025",
+            "dateTake": "",
+            "dateFinish": ""
+        },
+        
+        "10011": {
+            "clientID": 5003,
+            "workerID": 0,
+            "typeProductionID": 7,
+            "shortDescription": "Нужна поддержка",
+            "note": "",
+            "layout": "",
+            "status": "",
+            "dateStart": "05-04-2025",
+            "dateTake": "",
+            "dateFinish": ""
+        },
+        
+        "10012": {
+            "clientID": 5004,
+            "workerID": 0,
+            "typeProductionID": 7,
+            "shortDescription": "Нужна поддержка",
+            "note": "",
+            "layout": "",
+            "status": "",
+            "dateStart": "17-04-2025",
+            "dateTake": "",
+            "dateFinish": ""
+        }
+    }
+}
